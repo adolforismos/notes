@@ -2,3 +2,5 @@
 label: index
 hide_body: false
 fields: []
+pages:
+- index.md.md
