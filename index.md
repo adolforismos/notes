@@ -8,4 +8,4 @@ published: false
 ---
 this is index
 
-Link to [note](first-note "first note").
+Link to [note](first-post "first post").
