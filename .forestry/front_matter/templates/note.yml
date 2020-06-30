@@ -21,6 +21,11 @@ fields:
   config:
     required: false
   label: url
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
 pages:
 - _posts/2020-06-30-first-post.md
 - adolforismo-s-notes.md
