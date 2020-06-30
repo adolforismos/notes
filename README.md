@@ -1,0 +1,2 @@
+# notes
+Ideas, notes, thinking
