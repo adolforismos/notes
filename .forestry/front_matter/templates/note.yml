@@ -22,4 +22,5 @@ fields:
     required: false
   label: url
 pages:
+- _posts/first-post.md
 - adolforismo-s-notes.md
