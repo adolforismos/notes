@@ -16,5 +16,10 @@ fields:
     date_format: 
     time_format: 
     display_utc: false
+- name: url
+  type: text
+  config:
+    required: false
+  label: url
 pages:
 - adolforismo-s-notes.md
