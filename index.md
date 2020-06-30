@@ -1,8 +1,8 @@
 ---
-title: index
+title: index.md
 date: 
 url: ''
-permalink: index
+permalink: index.md
 
 ---
 this is index
