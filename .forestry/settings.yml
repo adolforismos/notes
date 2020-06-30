@@ -8,8 +8,10 @@ sections:
   label: Pages
   create: all
 - type: jekyll-posts
-  label: Posts
+  label: notes
   create: all
+  templates:
+  - note
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
