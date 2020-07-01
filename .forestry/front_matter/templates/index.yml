@@ -1,7 +1,13 @@
 ---
 label: index
 hide_body: false
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+  hidden: true
 pages:
 - The big test about text.md
 - index.md
