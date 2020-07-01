@@ -5,12 +5,10 @@ theme: minima
 header_pages:
   - page-one.md
 
-author:
-  name: Adolfo Ramírez Corona
-  email: "adolforamirez@gmail.com"
+site.author.name: Adolfo Ramírez Corona
+site.author.email: "adolforamirez@gmail.com"
   
-minima:
-social_links:
+minima.social_links:
   twitter: adolforismos
   github: adolforismos
   instagram: adolforamirez
