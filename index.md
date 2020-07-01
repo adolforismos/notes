@@ -1,6 +1,9 @@
 ---
+published: false
 
 ---
 index test
 
-link to [post](first-post.html)
+link to [post](first-post)
+
+link to [the session](the-session).
