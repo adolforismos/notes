@@ -3,7 +3,6 @@ title: The session
 date: 
 url: ''
 permalink: the-session
-published: false
 
 ---
 ### The session
