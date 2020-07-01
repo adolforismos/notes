@@ -3,4 +3,5 @@ label: index
 hide_body: false
 fields: []
 pages:
+- The big test about text.md
 - index.md
