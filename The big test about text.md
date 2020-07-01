@@ -1,5 +1,4 @@
 ---
-published: false
 
 ---
 ### The big test about text
