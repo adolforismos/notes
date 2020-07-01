@@ -1,5 +1,4 @@
 ---
-published: false
 
 ---
 index test
