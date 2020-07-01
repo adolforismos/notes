@@ -5,8 +5,8 @@ theme: minima
 header_pages:
   - page-one.md
 
-author.name: "Adolfo Ramírez Corona"
-author.email: "adolforamirez@gmail.com"
+name: "Adolfo Ramírez Corona"
+email: "adolforamirez@gmail.com"
   
 
 twitter_username: adolforismos
