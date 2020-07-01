@@ -5,7 +5,7 @@ theme: minima
 header_pages:
   - page-one.md
 
-author.name: "Adolfo Ramírez Corona"
+author: "Adolfo Ramírez Corona"
 email: "adolforamirez@gmail.com"
   
 
