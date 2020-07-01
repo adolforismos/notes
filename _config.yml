@@ -8,11 +8,11 @@ header_pages:
 site.author: Adolfo Ramírez Corona
 site.email: "adolforamirez@gmail.com"
   
-minima.social_links:
-  twitter: adolforismos
-  github: adolforismos
-  instagram: adolforamirez
-  keybase: adolforismos
-  youtube: AdolfoRamírezCorona
-  youtube_channel: UCdnijz8hqfio0kvnnYKQLyQ
-  youtube_channel_name: Adolfo Ramírez Corona
+
+twitter_username: adolforismos
+github_username: adolforismos
+instagram_username: adolforamirez
+keybase_username: adolforismos
+youtube_username: AdolfoRamírezCorona
+youtube_channel: UCdnijz8hqfio0kvnnYKQLyQ
+youtube_channel_name: Adolfo Ramírez Corona
