@@ -1,3 +1,21 @@
 
 
 theme: minima
+
+header_pages:
+  - page-one.md
+
+author:
+  name: Adolfo Ramírez Corona
+  email: "adolforamirez@gmail.com"
+  
+  minima:
+  social_links:
+    twitter: adolforismos
+    github: adolforismos
+    instagram: adolforamirez
+    keybase: adolforismos
+
+    youtube: AdolfoRam%C3%ADrezCorona
+    youtube_channel: UCdnijz8hqfio0kvnnYKQLyQ
+    youtube_channel_name: Adolfo Ramírez Corona
