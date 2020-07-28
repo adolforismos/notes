@@ -3,6 +3,7 @@ title: The session
 date: 
 url: ''
 permalink: the-session
+tags: note
 
 ---
 ### The session
