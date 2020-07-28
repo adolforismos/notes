@@ -3,7 +3,7 @@ plugins:
   
 
 theme: minima
-
+# https://github.com/jekyll/minima/tree/2.5-stable
 header_pages:
   - page-one.md
 
