@@ -9,5 +9,4 @@ fields:
   label: title
   hidden: true
 pages:
-- The big test about text.md
 - index.md
