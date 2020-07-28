@@ -11,13 +11,13 @@ layout: default
 
   <h3>Notes</h3>
   
-      {%- for post in site.tags.note -%}
+      {%- for page in site.tags.note -%}
  
 
       
        
-          <a href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+          <a href="{{ page.url | relative_url }}">
+            {{ page.title | escape }}
           </a>, 
         
       
