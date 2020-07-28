@@ -26,10 +26,10 @@ fields:
   config:
     required: false
   label: permalink
-- name: note
+- name: tag
   type: tag_list
   default: []
-  label: note
+  label: tag
 pages:
 - about.md
 - page-one.md
