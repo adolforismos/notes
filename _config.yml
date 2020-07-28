@@ -4,9 +4,9 @@
 
 theme: minima
 # https://github.com/jekyll/minima/tree/2.5-stable
-header_pages:
-  - about.md
-
+# header_pages:
+#  - about.md
+title: adolforismos' working notes
 author: "Adolfo Ramírez Corona"
 email: "adolforamirez@gmail.com"
   
