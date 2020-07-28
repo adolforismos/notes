@@ -27,7 +27,6 @@ fields:
     required: false
   label: permalink
 pages:
-- _posts/2020-06-30-first-post.md
 - about.md
 - page-one.md
 - the-session.md
