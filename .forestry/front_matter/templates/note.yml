@@ -7,30 +7,17 @@ fields:
   config:
     required: false
   label: title
-- name: date
-  type: datetime
-  label: date
-  description: ''
-  config:
-    required: false
-    date_format: 
-    time_format: 
-    display_utc: false
 - name: url
   type: text
   config:
     required: false
   label: url
-- name: permalink
+- name: layout
   type: text
   config:
     required: false
-  label: permalink
-- name: tags
-  type: text
-  config:
-    required: false
-  label: tags
+  label: layout
+  default: default
 pages:
 - _posts/2020-07-29-one.md
 - _posts/2020-07-29-title one.md
