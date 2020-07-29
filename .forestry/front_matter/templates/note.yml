@@ -32,6 +32,7 @@ fields:
     required: false
   label: tags
 pages:
+- _posts/title one.md
 - about.md
 - page-one.md
 - the-session.md
