@@ -7,17 +7,17 @@ fields:
   config:
     required: false
   label: title
-- name: url
-  type: text
-  config:
-    required: false
-  label: url
 - name: layout
   type: text
   config:
     required: false
   label: layout
   default: default
+- name: permalink
+  type: text
+  config:
+    required: false
+  label: permalink
 pages:
 - _posts/2020-07-29-one.md
 - _posts/2020-07-29-title one.md
