@@ -20,7 +20,6 @@ fields:
   label: permalink
 pages:
 - _posts/2020-07-29-one.md
-- _posts/2020-07-29-title one.md
 - about.md
 - page-one.md
 - the-session.md
