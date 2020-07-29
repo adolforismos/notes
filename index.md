@@ -1,5 +1,5 @@
 ---
-title: ''
+layout: default
 
 ---
 I'm Adolfo Ramírez Corona, UX, media and content consultant.
