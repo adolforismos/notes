@@ -38,6 +38,7 @@ github_username:  adolforismos
 
 # Build settings
 theme: minima
+permalink: title
 
 plugins:
  - jekyll-feed
