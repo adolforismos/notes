@@ -18,3 +18,5 @@ fields:
   config:
     required: false
   label: permalink
+pages:
+- _posts/consciousness-is-a-meta-experience.md
