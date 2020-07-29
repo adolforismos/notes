@@ -9,16 +9,19 @@ layout: default
 
   {{ content }}
 
-  <h3>Notes</h3>
-  
+  {%- if site.posts.size > 0 -%}
+    <h3 class="post-list-heading">{{ page.list_title | default: "Notes" }}</h3>
+    <p>
+      {%- for post in site.posts -%}
 
-      <p>
-  {%- for page in site.pages -%}
 
-          <a href="{{ page.url | relative_url }}">
-            {{ page.title | escape }}
+          <a href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
           </a><br>
 
       {%- endfor -%}
-  </p>
+    </p>
+
+  {%- endif -%}
+
 </div>
