@@ -1,11 +1,11 @@
-# title: adolforismos' working notes
-# author: Adolfo Ramírez Corona
-# email: adolforamirez@gmail.com
-# description: ideas, notes, thinking
+title: adolforismos' working notes
+author: Adolfo Ramírez Corona
+email: adolforamirez@gmail.com
+description: ideas, notes, thinking
 
 # social links
-# twitter_username: adolforismos
-# github_username:  adolforismos
+twitter_username: adolforismos
+github_username:  adolforismos
 # rss: rss
 # dribbble_username: jekyll
 # facebook_username: jekyll
@@ -39,6 +39,6 @@
 # Build settings
 theme: minima
 
-# plugins:
-#  - jekyll-feed
-#  - jekyll-seo-tag
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
