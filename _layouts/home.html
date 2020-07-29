@@ -13,10 +13,10 @@ layout: default
   
 
       <p>
-  {%- for post in site.pages -%}
+  {%- for page in site.pages -%}
 
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
+          <a href="{{ page.url | relative_url }}">
+            {{ page.title | escape }}
           </a><br>
 
       {%- endfor -%}
