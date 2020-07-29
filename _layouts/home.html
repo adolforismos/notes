@@ -10,7 +10,7 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-  {% assign sortedPosts = site.post | sort: 'title' %}
+  {% assign sortedPosts = site.posts | sort: 'title' %}
     <h2 class="post-list-heading">{{ page.list_title | default: "Notes" }}</h2>
      <p>
       {%- for post in sortedPosts -%}
