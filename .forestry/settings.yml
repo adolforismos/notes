@@ -10,7 +10,7 @@ sections:
   templates:
   - note
 - type: jekyll-posts
-  label: notes
+  label: Notes
   create: all
   templates:
   - note
