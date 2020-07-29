@@ -12,10 +12,10 @@ layout: default
   <h3>Notes</h3>
   
     <ul class="post-list">
-      {%- for page in site.pages -%}
+      {%- for post in site.pages -%}
       <li>
-          <a class="post-link" href="{{ page.url | relative_url }}">
-            {{ page.title | escape }}
+          <a class="post-link" href="{{ post.url | relative_url }}">
+            {{ post.title | escape }}
           </a>
       </li>
       {%- endfor -%}
