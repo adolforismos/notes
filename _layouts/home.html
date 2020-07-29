@@ -11,16 +11,13 @@ layout: default
 
   <h3>Notes</h3>
   
-      {%- for page in site.tags.note -%}
- 
-
-      
-       
-          <a href="{{ page.url | relative_url }}">
+    <ul class="post-list">
+      {%- for page in site.pages -%}
+      <li>
+          <a class="post-link" href="{{ page.url | relative_url }}">
             {{ page.title | escape }}
-          </a>, 
-        
-      
+          </a>
+      </li>
       {%- endfor -%}
     </ul>
 </div>
