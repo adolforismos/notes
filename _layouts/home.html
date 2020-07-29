@@ -12,7 +12,7 @@ layout: default
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "Notes" }}</h2>
      <p>
-      {%- for post in site.posts -%}
+      {%- for post in site.posts | sort: "title" -%}
           <a href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
