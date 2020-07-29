@@ -12,7 +12,7 @@ fields:
   config:
     required: false
   label: layout
-  default: default
+  default: post
 - name: permalink
   type: text
   config:
