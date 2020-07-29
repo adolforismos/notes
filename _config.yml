@@ -4,6 +4,7 @@
 
 theme: minima
 # https://github.com/jekyll/minima/tree/2.5-stable
+permalink: title
 header_pages:
   - none
 title: adolforismos' working notes
