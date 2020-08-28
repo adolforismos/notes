@@ -19,4 +19,5 @@ fields:
     required: false
   label: permalink
 pages:
+- _posts/intermittent-and-pure-flow-in-the-creative-process.md
 - _posts/tools-for-slow-and-fast-thoughts.md
