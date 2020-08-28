@@ -11,7 +11,7 @@ layout: default
 
   {%- if site.posts.size > 0 -%}
   {% assign sortedPosts = site.posts | sort: 'title' %}
-    <h3 class="post-list-heading">{{ page.list_title | default: "Notes" }}</h3>
+    <h3 class="post-list-heading">{{ page.list_title | default: "notes" }}</h3>
      <p>
       {%- for post in sortedPosts -%}
           <a href="{{ post.url | relative_url }}">
