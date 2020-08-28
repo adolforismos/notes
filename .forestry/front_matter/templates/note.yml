@@ -19,6 +19,6 @@ fields:
     required: false
   label: permalink
 pages:
-- _posts/intermittent-and-pure-flow-in-the-creative-process.md
+- _posts/2020-08-28-intermittent-and-pure-flow-in-the-creative-process.md
 - _posts/the-sacred-power-of-sessions.md
 - _posts/tools-for-slow-and-fast-thoughts.md
